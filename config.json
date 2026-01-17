@@ -1,0 +1,14 @@
+{
+    "opensubtitles": {
+        "username": "YOUR_USERNAME",
+        "password": "YOUR_PASSWORD",
+        "api_key": "YOUR_API_KEY"
+    },
+    "paths": {
+        "movies": "/path/to/your/movies",
+        "series": "/path/to/your/series"
+    },
+    "settings": {
+        "language": "en"
+    }
+}
