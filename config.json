@@ -4,9 +4,13 @@
         "password": "YOUR_PASSWORD",
         "api_key": "YOUR_API_KEY"
     },
+    "telegram": {
+        "token": "YOUR_BOT_TOKEN",
+        "chat_id": "YOUR_CHAT_ID"
+    },
     "paths": {
-        "movies": "/path/to/your/movies",
-        "series": "/path/to/your/series"
+        "movies": "/path/to/movies",
+        "series": "/path/to/series"
     },
     "settings": {
         "language": "en"
