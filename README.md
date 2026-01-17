@@ -34,16 +34,7 @@ Create a config.json file in the root directory
 Use ISO 639-1 codes (e.g., en for English, es for Spanish, fr for French).
 
 🛠️ Installation & Usage
-Clone the repository:
-
 Bash
-
-git clone https://github.com/youruser/subtitle-downloader.git
-cd subtitle-downloader
-Install dependencies: The script requires the requests library.
-
-Bash
-
 pip install requests
 Run the script:
 
