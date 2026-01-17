@@ -30,25 +30,8 @@ Message @BotFather on Telegram and create a new bot to get your Token.
 Message @userinfobot to find your Chat ID.
 
 ⚙️ Configuration
-Create a config.json file in the root directory with the following structure:
-
-JSON
-
-{
-    "opensubtitles": {
-        "username": "YOUR_USERNAME",
-        "password": "YOUR_PASSWORD",
-        "api_key": "YOUR_API_KEY"
-    },
-    "paths": {
-        "movies": "/path/to/your/movies",
-        "series": "/path/to/your/series"
-    },
-    "settings": {
-        "language": "en"
-    }
-}
-language: Use ISO 639-1 codes (e.g., en for English, es for Spanish, fr for French).
+Create a config.json file in the root directory 
+Use ISO 639-1 codes (e.g., en for English, es for Spanish, fr for French).
 
 🛠️ Installation & Usage
 Clone the repository:
